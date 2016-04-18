@@ -1,4 +1,6 @@
-# wordpress-archive
+# code-archive
 
-Bits and pieces of wordpress we use. Just in case they aren't available from
-wordpress.org when we need them.
+Copies of releases for projects we use.
+
+One repo to clone to our local mirror service and ensures we're not relying on
+a third party for builds to succeed.
